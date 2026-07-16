@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://pedrolucas006.github.io/projeto-qr-code/)
+- Solution URL: [Front End Mentor solution](https://www.frontendmentor.io/solutions/qr-code-component-centered-with-flexbox-eNscEw5Wmo#comment-6a587f0a15b028b9a1cd9056)
+- Live Site URL: [QR Code Component](https://pedrolucas006.github.io/projeto-qr-code/)
 
 ## My process
 

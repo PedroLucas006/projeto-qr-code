@@ -29,28 +29,46 @@ body {
 
 main {
   background-color: var(--white);
-  padding: 15px;
+  padding: 10px;
   margin: 20px;
-  flex-basis: 375px;
   border-radius: 15px;
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 20px;
+}
+
+picture {
+  align-self: center;
+  width: 300px;
+  height: 300px;
 }
 
 img {
+  width: 300px;
+  height: 300px;
   border-radius: 15px;
-  width: 100%;
 }
 
 section {
-  margin: 20px;
+  align-self: center;
   text-align: center;
+  width: 280px;
+  padding-bottom: 5px;
 }
 
 h1 {
-  font-weight: 700;
-  margin-bottom: 20px;;
+  margin-bottom: 10px;
+  font-size: 1.7rem;
+  font-weight: 600;
 }
 
 p {
   font-size: 15px;
-  font-weight: 400;
+  font-weight: 250;
+}
+
+@media screen and (min-width: 992px) {
+  main {
+    padding: 15px;
+  }
 }
